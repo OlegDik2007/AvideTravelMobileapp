@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "AvideTravel",
+    "slug": "avidetravel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "avidetravel",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "travel.avide.app"
+    },
+    "android": {
+      "package": "travel.avide.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B5CFF"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "apiBaseUrl": "https://avide.travel"
+    }
+  }
+}
